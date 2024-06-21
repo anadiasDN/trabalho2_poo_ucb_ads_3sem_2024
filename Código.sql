@@ -1,4 +1,4 @@
-
+--criar um database com nome lojadcroche, usuário root e sem senha
 
 CREATE TABLE cliente (
     id INT AUTO_INCREMENT PRIMARY KEY,
