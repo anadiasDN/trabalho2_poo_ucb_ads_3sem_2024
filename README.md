@@ -1,2 +1,2 @@
-# estudosEmJava
-Repositório para atividades em java realizadas através de estudos autonomos 
+# Trabalho 2 
+Repositório para o trabalho 2 da matéria programação orientada à objeto, turma GPE01M0360.
